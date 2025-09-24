@@ -4,6 +4,131 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAQ - Pos Indonesia</title>
+    
+    <!-- ========== FAQ SCHEMA MARKUP DIMULAI DISINI ========== -->
+    <!-- Schema ini membantu Google menampilkan FAQ di search results -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Apa itu Pos Indonesia?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Perusahaan Milik Negara dalam bidang Jasa Pengiriman Surat dan Paket yang merupakan pelopor Jasa Kurir di Indonesia sejak tahun 1746."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Layanan apa saja yang tersedia di Pos Indonesia?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pos Kilat, Pos Express, EMS, Paket Pos, Wesel Pos, Giro Pos, Tabungan Pos, dan layanan logistik lainnya untuk kebutuhan pengiriman domestik dan internasional."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Berapa jam operasional kantor pos?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Senin-Jumat: 08.00-16.00 WIB, Sabtu: 08.00-14.00 WIB. Jam operasional dapat berbeda di setiap cabang, silakan hubungi kantor pos terdekat."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Bagaimana cara menghubungi customer service?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hubungi Call Center 161 (24 jam), email: halo@posindonesia.co.id, atau melalui media sosial resmi @posindonesia di Instagram dan Facebook."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Apa syarat untuk mengirim barang?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bawa KTP/identitas diri, isi formulir pengiriman dengan lengkap, pastikan barang dikemas dengan baik, dan tidak termasuk barang terlarang."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Kemana saja Pos Indonesia bisa mengirimkan paket?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Dalam Negeri ke seluruh wilayah Indonesia (34 provinsi) dan Luar Negeri ke lebih dari 200 negara di seluruh dunia melalui jaringan Universal Postal Union."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Apakah ada layanan pick up gratis?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ya, tersedia layanan pick up gratis untuk pengiriman dengan syarat dan ketentuan tertentu. Hubungi 161 untuk informasi lebih lanjut dan penjadwalan."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Berapa batas maksimal berat dan ukuran paket?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Maksimal 30 kg per paket untuk domestik, 20 kg untuk internasional. Ukuran maksimal 100cm (panjang) + 2x(lebar+tinggi) tidak boleh melebihi 300cm."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Barang apa saja yang tidak boleh dikirim?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Barang berbahaya (bahan kimia, gas), senjata, narkoba, uang tunai, perhiasan mahal, makanan mudah busuk, dan barang yang melanggar hukum."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Bagaimana cara tracking paket secara real-time?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Gunakan website posindonesia.co.id, aplikasi mobile PosAja!, atau SMS ke 8161 dengan format: CEK[spasi]NOMORKIRIMAN. Update status tersedia setiap 2-4 jam."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Apa saya dapat mengirimkan 1 paket dalam 1 pick up?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bisa, 1 paket atau berapapun paketnya akan di pick up secara gratis sesuai jadwal yang telah ditentukan dalam area jangkauan layanan pick up."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Bagaimana jaminan keamanan dan asuransi paket?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tersedia asuransi hingga Rp 10 juta dengan biaya tambahan 0,5% dari nilai barang. Paket dilacak dengan barcode dan sistem keamanan berlapis."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Apa yang harus dilakukan jika paket hilang atau rusak?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Laporkan segera ke Call Center 161 dengan menyertakan nomor resi. Tim investigasi akan menindaklanjuti dalam 3x24 jam dan memberikan kompensasi sesuai ketentuan."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Bisakah mengubah alamat tujuan setelah paket dikirim?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Perubahan alamat hanya bisa dilakukan jika paket belum sampai di kota tujuan. Hubungi 161 dengan biaya tambahan sesuai selisih ongkir dan biaya administrasi."
+                }
+            }
+        ]
+    }
+    </script>
+    <!-- ========== FAQ SCHEMA MARKUP BERAKHIR DISINI ========== -->
+
     <style>
         * {
             margin: 0;
@@ -450,5 +575,5 @@
             }
         }
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'983f99e2f335585b',t:'MTc1ODY4ODc5OS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'983fa88fe19bfd27',t:'MTc1ODY4OTQwMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
